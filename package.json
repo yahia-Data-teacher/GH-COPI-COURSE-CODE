@@ -1,0 +1,46 @@
+{
+  "name": "gh-copi-course-code",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Une application web e-commerce moderne construite avec React, Vite, React Router et Tailwind CSS.",
+  "homepage": "https://github.com/yahia-Data-teacher/GH-COPI-COURSE-CODE#readme",
+  "bugs": {
+    "url": "https://github.com/yahia-Data-teacher/GH-COPI-COURSE-CODE/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yahia-Data-teacher/GH-COPI-COURSE-CODE.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "eslint.config.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "react-router-dom": "^7.2.0"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.39.1",
+    "@types/react": "^19.2.5",
+    "@types/react-dom": "^19.2.3",
+    "@vitejs/plugin-react": "^5.1.1",
+    "autoprefixer": "^10.4.18",
+    "eslint": "^9.39.1",
+    "eslint-plugin-react-hooks": "^7.0.1",
+    "eslint-plugin-react-refresh": "^0.4.24",
+    "globals": "^16.5.0",
+    "postcss": "^8.4.33",
+    "tailwindcss": "^3.4.1",
+    "vite": "npm:rolldown-vite@7.2.5"
+  },
+  "overrides": {
+    "vite": "npm:rolldown-vite@7.2.5"
+  }
+}
