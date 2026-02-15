@@ -1,3 +1,5 @@
 # GH-COPI-COURSE-CODE
 
-# cree moi un VPC using EC2 service en utilisant awd SDK
+# Show me how to create an EC2 Linux server and VPC in GO and document the code.
+
+# Can u exlpain to me what happen in this code ?
