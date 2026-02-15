@@ -5,3 +5,4 @@ Dans ce lab je prends tous les commentaire one by one et Ai genrate the code sta
 #T Terraform code to create an azure function app
 
 # Provider block
+
